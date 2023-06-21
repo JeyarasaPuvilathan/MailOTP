@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YlWQSETJF7bKKT/MNS4IyJ5VNCHskguU4hQM4pB1xk4=",
+  "Source": "EmailModuleAPI",
+  "BasePath": "_content/EmailModuleAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
