@@ -21,7 +21,7 @@ namespace EmailModuleAPI.Service
         public EmailOTPService(ILogger<EmailOTPService> logger, EmailDbContext emailDbContext, IConfiguration configuration)
         {
             _logger = logger;
-            _emailDbContext = emailDbContext;
+            _emailDbContext = emailDbContext; // test
             _configuration = configuration;
         }
 
